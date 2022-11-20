@@ -148,10 +148,8 @@ a{
 
 /* MAIN SECTION */
 .main{
-    border: 1px solid red;
     min-height: calc(100vh - 70px);
     display: flex;
-    /* align-items: center; */
     justify-content: center;
     gap: 20px;
 }
