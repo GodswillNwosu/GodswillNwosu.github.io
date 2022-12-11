@@ -111,7 +111,8 @@ a{
     color: black;
     font-weight: 400;
 }
-.navitem:hover .submenu{
+.navitem:hover .submenu,
+.navitem:focus-within .submenu{
     display: block;
 }
 .right-navlist{
