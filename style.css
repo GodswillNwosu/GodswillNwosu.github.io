@@ -262,6 +262,7 @@ a{
          display: block;   
     }
     .hamburger{
+        position: fixed;
         display: block;
     }
 
