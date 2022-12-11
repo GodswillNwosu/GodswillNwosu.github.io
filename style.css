@@ -237,7 +237,15 @@ a{
         width: 100%;
         text-align: center;
         margin: 0px 0px;
-    }
+    }  
+    .right-navlist .cta{       
+         width: 100%;    
+         cursor: pointer;    
+   }
+
+
+
+
     .submenu{ 
          display: none;
          position: inherit;  
